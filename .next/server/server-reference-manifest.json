@@ -1,0 +1,34 @@
+{
+  "node": {
+    "9c1135cda747a892bd7c64ef6452388d0a83db96": {
+      "workers": {
+        "app/(root)/(home)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csangr%5C%5CPictures%5C%5CNextJS%5C%5Cteamspace%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/personal-room/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csangr%5C%5CPictures%5C%5CNextJS%5C%5Cteamspace%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/meeting/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csangr%5C%5CPictures%5C%5CNextJS%5C%5Cteamspace%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/recordings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csangr%5C%5CPictures%5C%5CNextJS%5C%5Cteamspace%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/(home)/page": "action-browser",
+        "app/(root)/(home)/personal-room/page": "action-browser",
+        "app/(root)/meeting/[id]/page": "action-browser",
+        "app/(root)/(home)/recordings/page": "action-browser"
+      }
+    },
+    "cb94d607718f4a4372ba11e12936c3860639c64f": {
+      "workers": {
+        "app/(root)/(home)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csangr%5C%5CPictures%5C%5CNextJS%5C%5Cteamspace%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/personal-room/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csangr%5C%5CPictures%5C%5CNextJS%5C%5Cteamspace%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/meeting/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csangr%5C%5CPictures%5C%5CNextJS%5C%5Cteamspace%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/recordings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csangr%5C%5CPictures%5C%5CNextJS%5C%5Cteamspace%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/(home)/page": "action-browser",
+        "app/(root)/(home)/personal-room/page": "action-browser",
+        "app/(root)/meeting/[id]/page": "action-browser",
+        "app/(root)/(home)/recordings/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "EZD6SaGPXuOM43RUZezoVwG0kCd5RVtJkPeHk360kGg="
+}
